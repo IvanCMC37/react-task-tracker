@@ -3,7 +3,7 @@
 A simple task tracking web app that powered by react UI and JSON-server as mock backend
 
 <p align="center">
-  <img src="markup.png" alt="animated" />
+  <img src='https://i.imgur.com/Psp2qYx.png' />
 </p>
 
 ## Usage

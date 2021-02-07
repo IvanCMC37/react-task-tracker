@@ -1,6 +1,10 @@
 # React Task Tracker
 
-A simple task tracking web app builded with react UI and JSON-server as mock backend
+A simple task tracking web app that powered by react UI and JSON-server as mock backend
+
+<p align="center">
+  <img src="markup.png" alt="animated" />
+</p>
 
 ## Usage
 
